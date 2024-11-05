@@ -1,11 +1,18 @@
-# Pense-bêtes
+# cheat_sheet
+#autres-themes-mkdocs
 
-## Git
+***Git***
 
-![](./img/github-git-cheat-sheeta.png)
-![](./img/github-git-cheat-sheetb.png)
+![](../img/github-git-cheat-sheeta.png)
+![](../img/github-git-cheat-sheetb.png)
 
 ## Markdown
 
-![](./img/markdown-cheatsheeta.png)
-![](./img/markdown-cheatsheetb.png)
+![](../img/markdown-cheatsheeta.png)
+![](../img/markdown-cheatsheetb.png)
+
+## Autres thèmes MkDocs
+
+https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
+
+[TOC]

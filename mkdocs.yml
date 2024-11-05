@@ -12,6 +12,11 @@ theme:
 nav:
   - Accueil: index.md
   - Guide:
-    - Pense-bête: pense_bete.md
+    - Pense-bête: cheat_sheet.md
 
 ## Extensions
+markdown_extensions:
+  - toc:
+      permalink: true # false
+      baselevel: 1 # 2
+      
