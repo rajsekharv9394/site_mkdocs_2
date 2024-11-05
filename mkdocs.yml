@@ -1,0 +1,13 @@
+## Préambule
+site_name: My Website with mkdocs
+site_description: Un site sur quelque chose.
+site_author: Nelson
+
+theme: 
+  name: readthedocs # mkdocs
+
+## Architecture
+nav:
+  - Accueil: index.md
+
+## Extensions
