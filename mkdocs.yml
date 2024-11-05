@@ -6,7 +6,7 @@ repo_name: gitlab
 site_favicon: favicon.ico
 
 theme: 
-  name: readthedocs # mkdocs
+  name: readthedocs # mkdocs 
 
 ## Architecture
 nav:
