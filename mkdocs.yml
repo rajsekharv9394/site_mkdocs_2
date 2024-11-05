@@ -11,6 +11,7 @@ theme:
 ## Architecture
 nav:
   - Accueil: index.md
-  - Pense-bête: cheat_sheet.md
+  - Guide:
+    - Pense-bête: pense_bete.md
 
 ## Extensions
