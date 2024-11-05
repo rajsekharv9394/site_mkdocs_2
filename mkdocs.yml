@@ -9,5 +9,6 @@ theme:
 ## Architecture
 nav:
   - Accueil: index.md
+  - Pense-bête: cheat_sheet.md
 
 ## Extensions
