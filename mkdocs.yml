@@ -1,7 +1,9 @@
 ## Préambule
-site_name: My Website with mkdocs
-site_description: Un site sur quelque chose.
-site_author: Nelson
+site_name: mon_site
+site_description: 2nd website
+site_author: Raj
+repo_name: gitlab
+site_favicon: favicon.ico
 
 theme: 
   name: readthedocs # mkdocs
